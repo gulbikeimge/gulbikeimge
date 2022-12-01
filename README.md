@@ -6,7 +6,7 @@
 
 <br />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gulbikeimge&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gulbikeimge&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <br />
 
