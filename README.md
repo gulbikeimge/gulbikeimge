@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gulbikeimge
+- 👋 Hi, I’m Gülbike
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and Tailwind CSS
 - 📚 I’m studying Master's in Informatics at Technical University of Munich
 - 📫 How to reach me https://www.linkedin.com/in/gulbike-imge-koksal/
 
