@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Gülbike
+Hi 👋 I'm Gülbike
+-----------------
+
+- 🌍 I'm based in Munich
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning TypeScript and Tailwind CSS
 - 📚 I’m studying Master's in Informatics at Technical University of Munich
