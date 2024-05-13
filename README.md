@@ -3,8 +3,8 @@ Hi 👋 I'm Gülbike
 
 - 🌍 I'm based in Munich
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning TypeScript and Tailwind CSS
 - 📚 I’m studying Master's in Informatics at Technical University of Munich
+- 🌱 I’m currently working on my Master's thesis
 - 📫 How to reach me https://www.linkedin.com/in/gulbike-imge-koksal/
 
 ### Skills
