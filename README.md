@@ -31,7 +31,7 @@ Hi 👋 I'm Gülbike
 
 <br />
 
-![Snake animation](https://github.com/gulbikeimge/gulbikeimge/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/gulbikeimge/gulbikeimge/output/github-contribution-grid-snake-dark.svg)
 
 <!---
 gulbikeimge/gulbikeimge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
